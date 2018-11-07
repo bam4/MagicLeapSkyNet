@@ -1,0 +1,261 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "a948704584949d2208adbb7bd10a3cdeada99a48",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2665560,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dd32c7a8431c59aa1beae67d6847e0f956d02f55",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 33134232,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\kadal\\Documents\\BrettWork\\brettm.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "cb97900037ae969c4597e7dded5c1222d6f539e1",
+   "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\libil2cpp.so-d965b29a0433da74",
+   "xfrm_size": 33134990
+  },
+  {
+   "compression": 8,
+   "hash": "99be27c27e2af134a459a05f2240800e1a0eddd0",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 247376,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\kadal\\Documents\\BrettWork\\brettm.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0b5075cc27ed6af86b9b0e7836fdda5cb58e11c2",
+   "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\AudioPluginMSASpatializer.so-19337143d1101b46",
+   "xfrm_size": 248134
+  },
+  {
+   "compression": 8,
+   "hash": "e1d6a3392ecde066ea0cc34538e9839d8d87671d",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "c0a15a2993e1f9df9db7db864cb0c8f8fa94ca45",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\kadal\\Documents\\BrettWork\\brettm.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "112131d7064a2f6b63430f132d765dc8e3bc0571",
+   "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\UnityMagicLeap.so-19337143d1101b46",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "2769affdc8da0f6923bee02d6928163c6d1ee44f",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\kadal\\Documents\\BrettWork\\brettm.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ed2cf759d00afd6585fb89d069c887be67206cbb",
+   "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\libml_camera_plugin.so-19337143d1101b46",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "d8be78bce4b9d6484096ddc11bbdaf7a8ea4da11",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 30528,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\kadal\\Documents\\BrettWork\\brettm.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "56edb9b386421acecefe5f869c64cb0c987f3eb3",
+   "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\libml_mediaplayer_plugin.so-19337143d1101b46",
+   "xfrm_size": 31286
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "d64d56786d7a4729db4528511c0a1fafd44acc7b",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 293332,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
+   "pkgpath": "Data/boot.config",
+   "size": 76,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "b30b532e59274ea70c95ea583fa5989d761e851e",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 32672,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "849114148927226d5677f77d7cf9adef61ef1a0a",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 33900,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "60409e93e51715390d98685f6283b1958f5c734f",
+   "pkgpath": "Data/level0",
+   "size": 5180,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "ddff367bdbff633ff9ca69407b2d435b5b3c976f",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 87476,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "37c8f02a9a1decb7c3510a295dffbcbc607f8b38",
+   "pkgpath": "Data/sharedassets0.resource",
+   "size": 458176,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/sharedassets0.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "2941838c7996ccf3b3ce8ed1a7a864d172bd4b7c",
+   "pkgpath": "bin/Player.elf",
+   "size": 22314872,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\kadal\\Documents\\BrettWork\\brettm.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ffb51e8390f00f154de35130c4e99ed4b2a8d606",
+   "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\Player.elf-f809cf189d31d2ba",
+   "xfrm_size": 22315630
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "C:/Users/kadal/MagicLeap/mlsdk/v0.17.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "C:\\Users\\kadal\\Documents\\BrettWork\\brettm.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "b362e7ddc655ae52e3165d8f50be5426803b078d",
+   "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\libc++_shared.so-c6b6d9e46205acdc",
+   "xfrm_size": 977590
+  },
+  {
+   "compression": 8,
+   "hash": "04fa31c6a2dd267b2c13240ac2ea8475d00a0346",
+   "pkgpath": "manifest.xml",
+   "size": 642,
+   "src": "C:\\Users\\kadal\\Documents\\BrettWork\\MagicLeapProject\\ML_Skynet_CalligraphyApp\\Temp\\StagingArea\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "669d2fd39c92e48a36bde65c4f00fa34c665e249",
+     "developer_id": "6b2837ec-3aa2-4010-8410-648c9b5c3347"
+    }
+   },
+   "xfrm_hash": "6521fbe79ba037acbfc8ce269fc322364398e37b",
+   "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\manifest.xml-f809cf189d31d2ba",
+   "xfrm_size": 654
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\kadal\\Documents\\BrettWork\\brettm.cert"
+  },
+  "taildata": {
+   "devcert": "C:\\Users\\kadal\\Documents\\BrettWork\\brettm.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

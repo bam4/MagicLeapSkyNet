@@ -1,0 +1,10 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="6b2837ec-3aa2-4010-8410-648c9b5c3347" ml:package="nyush.mlcalligraphy" ml:version_code="1" ml:version_name="">
+  <application ml:sdk_version="1.0" ml:visible_name="ML_Skynet_CalligraphyApp">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="GesturesConfig" />
+    <uses-privilege ml:name="GesturesSubscribe" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="ML_Skynet_CalligraphyApp">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>
