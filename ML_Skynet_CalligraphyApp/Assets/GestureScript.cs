@@ -16,16 +16,19 @@ public class GestureScript: MonoBehaviour {
     public GameObject inkSpot; // Reference to our Cube
     private MLHandKeyPose[] gestures; // Holds the different gestures we will look for
 
+    public GameObject paintbrushPrefab;
+
 
     void Awake () {
 		// Start up the hands.
         MLHands.Start();
 
 		// Intialize the gestures that we could recognize.
-        gestures = new MLHandKeyPose[2];
+        gestures = new MLHandKeyPose[3];
 		// We will recognize the following gestures:
         gestures[0] = MLHandKeyPose.Pinch;
         gestures[1] = MLHandKeyPose.Fist;
+        gestures[2] = MLHandKeyPose.Finger;
 		// Turn on the key pose manager to our gesture array.
         MLHands.KeyPoseManager.EnableKeyPoses(gestures, true, false);
 		
@@ -41,6 +44,8 @@ public class GestureScript: MonoBehaviour {
 
 			// If we recognize a particular handpose, instatiate a cube where our thumb is.
         if (GetGesture(MLHands.Right, MLHandKeyPose.Pinch)) {
+
+            //paintbrushPrefab.transform.position = MLHands.Right.Center;
             Instantiate(inkSpot, MLHands.Right.Index.KeyPoints[0].Position, Quaternion.identity);
         }
 			

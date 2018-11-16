@@ -672,6 +672,7 @@ PlayerSettings:
   luminPrivilege:
   - GesturesConfig
   - GesturesSubscribe
+  - WorldReconstruction
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 7bce544d-8aa4-43fd-9423-23ecf74ef888
