@@ -2,16 +2,44 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "a948704584949d2208adbb7bd10a3cdeada99a48",
+   "hash": "bb3a597c7eae326316b32cd65ffda7fb4094f255",
+   "pkgpath": "Data/12560bac22942ae41bbd5bad953a16d5",
+   "size": 4116,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/12560bac22942ae41bbd5bad953a16d5"
+  },
+  {
+   "compression": 8,
+   "hash": "1e5ffb854128c06d293f76af71ff3dd07ada1dc8",
+   "pkgpath": "Data/622460741fcfd4542985c43ec5012461",
+   "size": 7712,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/622460741fcfd4542985c43ec5012461"
+  },
+  {
+   "compression": 8,
+   "hash": "f2352e60e71823692742b125f00e9c00dacfdab7",
+   "pkgpath": "Data/6d20613ad72661b4193f83a35313003b",
+   "size": 9384,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/6d20613ad72661b4193f83a35313003b"
+  },
+  {
+   "compression": 8,
+   "hash": "b0f3fed446a6452a6238bf4a2ed4e00d6ab4b06a",
+   "pkgpath": "Data/82c98619b03285046ad47a5c74a23276",
+   "size": 6916,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/82c98619b03285046ad47a5c74a23276"
+  },
+  {
+   "compression": 8,
+   "hash": "dd87ee47c12aa307813f41e193f51272079c2792",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 2665560,
+   "size": 2889112,
    "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "dd32c7a8431c59aa1beae67d6847e0f956d02f55",
+   "hash": "2c850770e91818eee43b2ac896f3cf5b98486939",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 33134232,
+   "size": 37131584,
    "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -22,9 +50,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "cb97900037ae969c4597e7dded5c1222d6f539e1",
+   "xfrm_hash": "f1b163931c386a00099bf0cebfa5856a9495b0df",
    "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\libil2cpp.so-d965b29a0433da74",
-   "xfrm_size": 33134990
+   "xfrm_size": 37132342
   },
   {
    "compression": 8,
@@ -153,6 +181,13 @@
   },
   {
    "compression": 8,
+   "hash": "997efed6e8d9240938f123817f50464dcda83200",
+   "pkgpath": "Data/ba245a238e684f2458648bef88e91993",
+   "size": 9496,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/ba245a238e684f2458648bef88e91993"
+  },
+  {
+   "compression": 8,
    "hash": "e94169e04982098c15b71dea64d4bb6da942f232",
    "pkgpath": "Data/boot.config",
    "size": 76,
@@ -160,38 +195,101 @@
   },
   {
    "compression": 8,
-   "hash": "b30b532e59274ea70c95ea583fa5989d761e851e",
+   "hash": "c4187d3d11570c25506c15fea9314417dd96dacb",
+   "pkgpath": "Data/cb768c717bf188b49ae0141fa5a9a1ec",
+   "size": 8756,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/cb768c717bf188b49ae0141fa5a9a1ec"
+  },
+  {
+   "compression": 8,
+   "hash": "9c053176903486a1ba64c36b8eda31f2a8bc099f",
+   "pkgpath": "Data/fbdccb0ba35d6574bb932dc12d847736",
+   "size": 8452,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/fbdccb0ba35d6574bb932dc12d847736"
+  },
+  {
+   "compression": 8,
+   "hash": "3d896e8fda07365b17c9bf78eb63ebab99f90678",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 32672,
+   "size": 36312,
    "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "849114148927226d5677f77d7cf9adef61ef1a0a",
+   "hash": "0ff9cd9b45f302fa3decbcc106db1aeeb53690cd",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 33900,
+   "size": 41904,
    "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "60409e93e51715390d98685f6283b1958f5c734f",
+   "hash": "2e3c54c37b2987019477ca3024e4c67524374f3b",
    "pkgpath": "Data/level0",
-   "size": 5180,
+   "size": 14892,
    "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/level0"
   },
   {
    "compression": 8,
-   "hash": "ddff367bdbff633ff9ca69407b2d435b5b3c976f",
+   "hash": "571eb12d7aa87ae03ccce926de7eeb72c32917fb",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "17d2f04ea2253bdbf2608caa1d9f2246a2d20ba2",
+   "pkgpath": "Data/level1",
+   "size": 14356,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/level1"
+  },
+  {
+   "compression": 8,
+   "hash": "14a375987bbf7eac68a402b9b15f33087463057b",
+   "pkgpath": "Data/level2",
+   "size": 5464,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/level2"
+  },
+  {
+   "compression": 8,
+   "hash": "571eb12d7aa87ae03ccce926de7eeb72c32917fb",
+   "pkgpath": "Data/level2.resS",
+   "size": 131232,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/level2.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "b3b708ec7014ca001cff73d26d5886dae8f2715f",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 87476,
+   "size": 1236696,
    "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
    "compression": 8,
-   "hash": "37c8f02a9a1decb7c3510a295dffbcbc607f8b38",
-   "pkgpath": "Data/sharedassets0.resource",
-   "size": 458176,
-   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/sharedassets0.resource"
+   "hash": "dccd0311f0bc12c61c7e475124206a41f172e925",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 544288,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "a75e93e175b29a13447e2768bcbc99325df345d3",
+   "pkgpath": "Data/sharedassets1.assets",
+   "size": 42452,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/sharedassets1.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "20e99e42709b372630411a96c650b0dbf708265f",
+   "pkgpath": "Data/sharedassets1.assets.resS",
+   "size": 1398128,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/sharedassets1.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "de6af7db5aeb87648e893233a5cc97a45d099cd3",
+   "pkgpath": "Data/sharedassets2.assets",
+   "size": 5436,
+   "src": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/Temp/StagingArea/Data/sharedassets2.assets"
   },
   {
    "compression": 8,
@@ -233,9 +331,9 @@
   },
   {
    "compression": 8,
-   "hash": "04fa31c6a2dd267b2c13240ac2ea8475d00a0346",
+   "hash": "75ac4ca4c98f17b19c2c5f65b6bd115ba55f4797",
    "pkgpath": "manifest.xml",
-   "size": 642,
+   "size": 745,
    "src": "C:\\Users\\kadal\\Documents\\BrettWork\\MagicLeapProject\\ML_Skynet_CalligraphyApp\\Temp\\StagingArea\\manifest.xml",
    "xfrm_flags": {
     "manifest": {
@@ -243,9 +341,9 @@
      "developer_id": "6b2837ec-3aa2-4010-8410-648c9b5c3347"
     }
    },
-   "xfrm_hash": "6521fbe79ba037acbfc8ce269fc322364398e37b",
+   "xfrm_hash": "fc9cd00c3da2a154a005d5611517f08c8089ddac",
    "xfrm_path": "C:/Users/kadal/Documents/BrettWork/MagicLeapProject/ML_Skynet_CalligraphyApp/.out/.cache/release_lumin_clang-3.8_aarch64/nyush.mlcalligraphy-0b60340a16c21577\\manifest.xml-f809cf189d31d2ba",
-   "xfrm_size": 654
+   "xfrm_size": 757
   }
  ],
  "pkgflags": {

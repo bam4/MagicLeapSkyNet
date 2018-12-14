@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/pinchWritingTest.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/MagicLeap/Examples/Scenes/Controller.unity
+    guid: 62a07dca92e019646a2932bacb6d4387
+  - enabled: 1
+    path: Assets/raycastSample.unity
+    guid: 2fa4e39315cd95a4ab80fee0cb83c4d1
   m_configObjects: {}
